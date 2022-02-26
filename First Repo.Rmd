@@ -46,3 +46,14 @@ View(beauty)
 beauty %>%
   summarise(no_of_female_professors=sum(female))
 195
+
+beauty %>% 
+  group_by(age) %>%
+  tally(sort = TRUE)
+
+beauty %>% 
+  group_by(female,age) %>%
+  tally(sort = TRUE) %>%
+  arrange(age)
+  
+  

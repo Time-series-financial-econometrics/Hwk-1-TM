@@ -39,4 +39,5 @@ View(beauty)
 #Excercise 1
 463 Evaluations
 
-
+#Excercise 2
+8 variables

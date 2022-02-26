@@ -228,6 +228,8 @@ You can find out more about the dataset by inspecting its documentation (which c
 
 1.  According to the data viewer, how many evaluations are include the dataset?
 
+
+
 🧶 ✅ ⬆️ *Write your answer in your R Markdown document under Exercise 1, knit the document, commit your changes with a commit message that says "Completed Exercise 1", and push. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
 
 2.  Again, according to the data viewer, how many variables do we have for evaluation?

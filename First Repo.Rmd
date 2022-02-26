@@ -41,3 +41,8 @@ View(beauty)
 
 #Excercise 2
 8 variables
+
+#Excercise Three
+beauty %>%
+  summarise(no_of_female_professors=sum(female))
+195
